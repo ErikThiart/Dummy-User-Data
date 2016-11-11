@@ -7,4 +7,6 @@ When developing an application, you would be wise to test it. You might test it 
 
 ## Contribute
 
-Feel free to push data to this repo, lets make it grow and become the defacto place for data that has a real world usage.
+Feel free to push data to this repo, lets make it grow and become the defacto place for data that has been tested in a  real world enviroument.
+
+Please feel free to add more quick recipes to test real applications with random data
